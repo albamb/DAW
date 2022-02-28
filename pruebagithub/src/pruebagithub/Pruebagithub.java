@@ -4,6 +4,8 @@
  */
 package pruebagithub;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Alba Martínez
@@ -15,6 +17,8 @@ public class Pruebagithub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+       Scanner teclado = new Scanner(System.in);
     }
     
 }
