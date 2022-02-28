@@ -13,7 +13,7 @@ public class CCuenta {
     private String cuenta;
     private double saldo;
     private double tipoInteres;
-
+    private String apellidos;
 
  
 
