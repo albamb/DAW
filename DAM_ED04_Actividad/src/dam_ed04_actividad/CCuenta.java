@@ -60,7 +60,7 @@ public class CCuenta {
     }
 
     /**
-     * 
+     * obtener cuenta
      * @return cuenta a través de getCuenta()
      */
     public String obtenerCuenta()
@@ -69,7 +69,7 @@ public class CCuenta {
     }
     
     /**
-     * 
+     * obtener estado
      * @return saldo a través de getSaldo()
      */
     public double getEstado(){
